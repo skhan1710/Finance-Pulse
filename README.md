@@ -1,4 +1,4 @@
-# Finance-Pulse
+# Finance Pulse
 ### Corporate Financial Intelligence: P&L Analysis, Expense Anomaly Detection & AR/AP Aging
 
 **Domain:** FP&A · Financial Reporting · Expense Management · Working Capital  
