@@ -17,6 +17,12 @@ The project combines SQL-based financial modeling in PostgreSQL with Tableau das
 - **Tableau** — dashboard visualization and business reporting
 - **CSV datasets** — synthetic financial data simulating enterprise systems
 
+## Data Schema
+
+<p align="center">
+  <img src="Dashboard Images/data_schema.png" width="600"><br>
+   <sub><b><i>Data Schema</i></b></sub>
+</p>
 
 ## Dashboards
 
