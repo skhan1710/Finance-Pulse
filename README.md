@@ -1,7 +1,7 @@
 # Finance Pulse
-### Corporate Financial Intelligence: P&L Analysis, Expense Anomaly Detection & AR/AP Aging
+### Financial Data Analytics Project: P&L Analysis, Expense Anomaly Detection & AR/AP Aging
 
-**Domain:** FP&A · Financial Reporting · Expense Management · Working Capital  
+**Domain:** FP&A · Financial Reporting · Data Analytics  
 **Author:** Safwan Khan
 
 ---
